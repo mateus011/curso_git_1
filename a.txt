@@ -1,1 +1,2 @@
 arquivo de texto A
+enviando funcionalidade x
