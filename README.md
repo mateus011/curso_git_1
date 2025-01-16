@@ -5,6 +5,7 @@ testando markdow no read
 ## funcionalidades  
 
 checkout, tela de produto, home com  banner
+## colocando codigo fonte 
 
 ``` javascript
 funcion soma (a,b){
