@@ -20,5 +20,5 @@ return a + b;
 
 ## colocando imagem 
 
-![logo do git] https://img.icons8.com/color/512/git.png;
+![logo do git](https://img.icons8.com/color/512/git.png);
       
