@@ -15,5 +15,5 @@ return a + b;
 ```
 ## teste de listas de tarefas a fazer: 'lembrar de colocar o espaço entre conchetes
 - [x] área de membros , lista ja feita e com x no conchete
-- [] integração com outros pagamentos 
-- [] Css do rodapé
+- [ ] integração com outros pagamentos 
+- [ ] Css do rodapé
